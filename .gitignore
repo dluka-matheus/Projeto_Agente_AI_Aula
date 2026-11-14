@@ -1,0 +1,23 @@
+# Ambiente Virtual
+.venv/
+env/
+venv/
+
+# Variáveis de ambiente com chaves de API reais
+.env
+!.env.example
+
+# Bancos de dados e índices gerados dinamicamente
+protocolos.db
+dados_vetoriais/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Logs e arquivos temporários
+*.log
+.DS_Store
+Thumbs.db

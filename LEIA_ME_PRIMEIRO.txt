@@ -1,0 +1,10 @@
+AVALIAÇÃO INTEGRADORA - APLICACOES AVANCADAS DE IA
+
+1. Enunciado: Atividade_Aluno_IA_Avancada_REVISADA.pdf
+2. Documentos fictícios: DOCUMENTOS_FICTICIOS_ACADEMICOS/
+   - Documentos_Academicos_Ficticios.pdf (leitura)
+   - Documentos_Academicos_Ficticios.docx (editável)
+   - 12 arquivos ACAD-001 a ACAD-012 .md (fontes individuais)
+   - base_conhecimento_academica.json (ingestão via Python)
+3. Testes: cenarios_de_teste_aluno.csv
+4. Exemplos opcionais: exemplos_ambientes/
