@@ -11,7 +11,7 @@ class Settings:
     # Provedor e Chaves
     LLM_PROVIDER: str = os.getenv("LLM_PROVIDER", "gemini").lower()
     GEMINI_API_KEY: str = os.getenv("GEMINI_API_KEY", "").strip()
-    LLM_MODEL: str = os.getenv("LLM_MODEL", "gemini-3.5-flash")
+    LLM_MODEL: str = os.getenv("LLM_MODEL", "gemini-3.1-flash-lite")
     EMBEDDING_MODEL: str = os.getenv("EMBEDDING_MODEL", "models/gemini-embedding-001")
 
     # Vector Store & RAG
